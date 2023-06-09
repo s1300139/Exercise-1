@@ -12,7 +12,7 @@ class dicegame{
 
 	System.out.println("What is your name?");
 	String name = s.nextLine();
-	System.out.pritnln("Hello, "+name+"!");
+	System.out.println("Hello, "+name+"!");
 	
 	System.out.println("Rolling dice...");
 	System.out.println("Die 1: "+dice);
